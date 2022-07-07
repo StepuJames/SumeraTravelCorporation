@@ -1,0 +1,9 @@
+﻿namespace SumeraTravelCorporation.Data.Dtos
+{
+    public class TravelClassDto
+    {
+        public int Id { get; set; }
+
+        public string Name { get; set; } = null!;
+    }
+}
